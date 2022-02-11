@@ -1,5 +1,7 @@
 ## Your GitHub Learning Lab Repository for Communicating Using Markdown
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a7e227663b0840279c6be5048a31298e)](https://app.codacy.com/gh/Harsha7337/markdown-portfolio?utm_source=github.com&utm_medium=referral&utm_content=Harsha7337/markdown-portfolio&utm_campaign=Badge_Grade_Settings)
+
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
 
 Oh! I haven't introduced myself...
